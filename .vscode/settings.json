@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/aca75ea0-745a-4fd1-8eab-d3927a3990f1/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/tipnicoloprini",
+    "appService.deploySubpath": "."
+}
